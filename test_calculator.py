@@ -17,4 +17,4 @@ class TestCalculator:
 
 
     def test_multiplication(self):
-        assert 190 == calculator.multiply(10, 19)
+        assert 180 == calculator.multiply(10, 18)
